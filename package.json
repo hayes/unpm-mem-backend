@@ -19,6 +19,6 @@
   "dependencies": {
     "levelup": "0.18.2",
     "memdown": "0.7.0",
-    "unpm-leveldb": "0.1.2"
+    "unpm-leveldb": "0.2.0"
   }
 }
