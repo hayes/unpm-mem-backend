@@ -1,6 +1,6 @@
 {
   "name": "unpm-mem-backend",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "in memory backend for unpm",
   "main": "index.js",
   "scripts": {
