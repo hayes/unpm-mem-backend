@@ -4,7 +4,7 @@
   "description": "in memory backend for unpm",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
@@ -19,6 +19,9 @@
   "dependencies": {
     "levelup": "0.18.2",
     "memdown": "0.7.1",
-    "unpm-leveldb": "0.3.6"
+    "unpm-leveldb": "0.4.2"
+  },
+  "devDependencies": {
+    "unpm-backend-test": "0.0.4"
   }
 }
