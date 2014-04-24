@@ -18,7 +18,7 @@
   "homepage": "https://github.com/hayes/unpm-mem-backend",
   "dependencies": {
     "levelup": "0.18.2",
-    "memdown": "0.7.0",
-    "unpm-leveldb": "0.2.1"
+    "memdown": "0.7.1",
+    "unpm-leveldb": "0.3"
   }
 }
